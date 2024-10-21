@@ -1,1 +1,1 @@
-console.log("Git lesson: everything's super!");
+console.log("Git lesson-branches: everything's super!");
